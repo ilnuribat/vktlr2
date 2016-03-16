@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vktlr</string>
+    <string name="tillEnd">До выхода:</string>
+    <string name="tillStart">До начала</string>
+    <string name="start1">Начало 1</string>
+    <string name="end1">Конец 1</string>
+    <string name="start4">Начало 4</string>
+    <string name="start5">Начало 5</string>
+    <string name="start3">Начало 3</string>
+    <string name="start2">Начало 2</string>
+    <string name="widget_name">My first widget</string>
+    <string name="widget_text">Text in widget</string>
+
+</resources>
